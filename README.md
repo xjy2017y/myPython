@@ -1,5 +1,8 @@
 # myPython  爬取爱卡汽车网站车辆数据
 
+
+环境：python 2.7
+
 需要修改的地方：
 1.config.py TXT_PATH LOG_DIR PID_FILE路径，数据库的配置要修改
 2.createTable.sql 是表
