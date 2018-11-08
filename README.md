@@ -17,3 +17,5 @@
 python爬虫
 到spider目录下打开cmd窗口 输入 Python aikaStart.py
 即可爬取
+
+注：如果中间因反爬虫中断了程序，过一段时间再次运行即可。
